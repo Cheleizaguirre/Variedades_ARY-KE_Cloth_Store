@@ -1,0 +1,25 @@
+# Paquetes NuGet
+packages/
+app.config
+
+# Archivos de compilación
+bin/
+obj/
+*.dll
+*.exe
+
+# Archivos temporales de Visual Studio
+.vscode/
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Archivos de configuración locales
+appsettings.json
+appsettings.Development.json
+
+# Archivos de publicación
+publish/
+logs/
